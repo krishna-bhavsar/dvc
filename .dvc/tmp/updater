@@ -1,0 +1,1 @@
+{"version": "2.11.0", "packages": {"linux": {"deb": "https://dvc.org/download/linux-deb/dvc-2.11.0", "rpm": "https://dvc.org/download/linux-rpm/dvc-2.11.0"}, "windows": {"exe": "https://dvc.org/download/win/dvc-2.11.0"}, "osx": {"pkg": "https://dvc.org/download/osx/dvc-2.11.0"}}}
