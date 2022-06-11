@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = dvcdemo
+['remote "dvcdemo"']
+    url = gdrive://1tB2qP-uIYnAm1EIl20as7eYkppaqa2Fn
